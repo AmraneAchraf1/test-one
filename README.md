@@ -1,3 +1,9 @@
+## Other projects
+
+- Java SOAP API (Jakarta / Maven): [java_soap_api](https://github.com/AmraneAchraf1/java_soap_api)
+- React client for SOAP API: [reactjs_soap_api](https://github.com/AmraneAchraf1/reactjs_soap_api)
+
+
 # test-one 🔧
 
 **Lightweight demo project** for a simple banking model implemented in Java .
