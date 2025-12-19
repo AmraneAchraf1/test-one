@@ -1,0 +1,17 @@
+# Maven build output
+target/
+
+# VS Code
+.vscode/
+
+# Compiled class files
+*.class
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Package files
+*.jar
+*.war
+*.ear
